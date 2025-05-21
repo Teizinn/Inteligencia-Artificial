@@ -1,0 +1,10 @@
+MAS salaAula {
+
+    environment: example.Env("ia,zamba")
+
+    agents: bob;
+            alice;
+            professor;
+
+    aslSourcePath: "src/agt";
+}
