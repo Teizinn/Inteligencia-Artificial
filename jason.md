@@ -13,5 +13,6 @@ propriedades do c:
 configurações avançadas do sistema
 variaveis de ambiente
 path
+copie o caminho do BIN
 adicionar o caminho do arquivo extraido 
 logo apos reiniciar vscode e dale
