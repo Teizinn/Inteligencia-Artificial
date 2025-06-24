@@ -7,6 +7,7 @@ Este repositório é dedicado ao armazenamento de trabalhos, anotações e proje
 O repositório está organizado nas seguintes pastas:
 
 * **`/Trabalhos`**: Contém os trabalhos e atividades práticas desenvolvidas ao longo da disciplina.
+* **`/almoxarifado`**: Exemplo utilzando Jason feito em aula.
 * **`/anotações`**: Reúne anotações de aulas, resumos e materiais de estudo.
 * **`/rna/python`**: Projetos e implementações de Redes Neurais Artificiais utilizando Python.
 * **`/salaAula`**: Materiais e exercícios apresentados em sala de aula.
