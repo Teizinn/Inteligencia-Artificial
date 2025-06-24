@@ -1,26 +1,22 @@
-# Inteligência Artificial - Ciência da Computação UFN
+# Repositório de Inteligência Artificial | Ciência da Computação - UFN
 
-Este repositório é dedicado ao armazenamento de trabalhos, anotações e projetos desenvolvidos na disciplina de Inteligência Artificial, do 5º semestre do curso de Ciência da Computação da Universidade Franciscana (UFN).
+Este repositório armazena todos os trabalhos, anotações e projetos práticos desenvolvidos durante a disciplina de Inteligência Artificial, cursada no 5º semestre de Ciência da Computação na Universidade Franciscana (UFN).
 
-## 📚 Conteúdo
+## 📂 Estrutura do Repositório
 
-O repositório está organizado nas seguintes pastas:
+O conteúdo está organizado da seguinte forma para facilitar o acesso:
 
-* **`/Trabalhos`**: Contém os trabalhos e atividades práticas desenvolvidas ao longo da disciplina.
-* **`/almoxarifado`**: Exemplo utilzando Jason feito em aula.
-* **`/anotações`**: Reúne anotações de aulas, resumos e materiais de estudo.
-* **`/rna/python`**: Projetos e implementações de Redes Neurais Artificiais utilizando Python.
-* **`/salaAula`**: Materiais e exercícios apresentados em sala de aula.
+* **`/Trabalhos`**: Agrupa os trabalhos práticos e atividades avaliativas propostas ao longo do semestre.
+* **`/anotações`**: Contém anotações de aula, resumos de conteúdos e outros materiais de estudo relevantes.
+* **`/Exemplos`**: Dedicado a exemplos práticos feitos em aula.
 
-## 💻 Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas
 
-Os projetos e exemplos neste repositório utilizam as seguintes tecnologias:
+As principais tecnologias utilizadas nos projetos são:
 
-* **Python**: Linguagem principal para a implementação dos algoritmos e projetos de IA.
-* **ASL (AgentSpeak)**: Linguagem para o desenvolvimento de sistemas multiagentes.
+* **Python**: Linguagem de programação central para a implementação de algoritmos, modelos de machine learning e redes neurais.
+* **ASL (AgentSpeak)**: Linguagem utilizada para o desenvolvimento e programação de sistemas baseados em agentes inteligentes.
 
-## 🧑‍🏫 Professor
+## 👨‍🏫 Professor Orientador
 
 * **Alexandre Zamberlan**
-
----
